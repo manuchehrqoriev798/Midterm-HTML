@@ -9,7 +9,6 @@
 
 
 ## Visit my website: https://manuchehrqoriev798.github.io/Midterm-HTML/
-
 ## Setup 
 1. Clone the repository:
 ```bash:
